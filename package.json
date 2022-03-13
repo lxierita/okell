@@ -6,6 +6,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@aws-sdk/client-cognito-identity": "^3.54.0",
+    "@aws-sdk/client-s3": "^3.54.0",
+    "@aws-sdk/credential-providers": "^3.54.0",
+    "@draft-js-plugins/buttons": "^4.3.0",
+    "@draft-js-plugins/editor": "^4.1.2",
+    "@draft-js-plugins/emoji": "^4.6.0",
+    "@draft-js-plugins/static-toolbar": "^4.1.2",
+    "@draft-js-plugins/undo": "^4.1.1",
+    "@radix-ui/react-label": "^0.1.5",
+    "cors": "^2.8.5",
+    "draft-js": "^0.11.7",
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
